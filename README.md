@@ -52,13 +52,14 @@ Then you can directly ask your question against this schema like shown in usage.
 
 Example:
 ========
+```
 from parser import Parser
 
 p = Parser()
 
 p.parse("get id and emp_name from Askme table ")
 p.parse("get id and emp_name from Askme table ")
-
+```
 
 
 Output:
