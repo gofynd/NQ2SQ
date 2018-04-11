@@ -19,7 +19,7 @@ Description:
 Usage:
 =======
 Setup: 
-
+```
 pip install -e git+git@gitlab.com:fynd/NQ2SQ.git@#egg=NQ2SQ
 
 Import:
@@ -34,7 +34,7 @@ table_schema = {
 qparser = Parse(table_schema)
 sql_query = qparser.parse("get id and emp_name from Askme table ")
 
-
+```
 
 
 1.Step:
