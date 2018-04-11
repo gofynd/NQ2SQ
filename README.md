@@ -1,6 +1,6 @@
 Welcome !!!
 
-NQ2SQ:
+NQ2SQ: Natural Query to SQL Query
 =======
 
 Tool to convert natural language questions as input and query over MYSQL db to 
